@@ -91,13 +91,13 @@ I'm Sora, working as a Software Developer with 4 years based in Vancouver, Canad
 <p>
   <img
     align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sora11023539&amp;theme=dark"
-    alt="sora11023539"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sora19961102&amp;theme=dark"
+    alt="sora19961102"
   />
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=sora11023539&amp;show_icons=true&amp;theme=dark&amp;locale=en"
-    alt="sora11023539"
+    src="https://github-readme-stats.vercel.app/api?username=sora19961102&amp;show_icons=true&amp;theme=dark&amp;locale=en"
+    alt="sora19961102"
   />
 </p>
 
@@ -108,8 +108,8 @@ I'm Sora, working as a Software Developer with 4 years based in Vancouver, Canad
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sora11023539&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact"
-    alt="sora11023539"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sora19961102&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact"
+    alt="sora19961102"
   />
 </p>
 
@@ -121,8 +121,8 @@ I'm Sora, working as a Software Developer with 4 years based in Vancouver, Canad
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=sora11023539&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
-    alt="sora11023539"
+    src="https://komarev.com/ghpvc/?username=sora19961102&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
+    alt="sora19961102"
   />
 </p>
 
