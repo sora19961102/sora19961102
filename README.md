@@ -30,6 +30,14 @@ I'm Sora, working as a Software Developer with 5 years based in Vancouver, Canad
       height="40"
     />
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
