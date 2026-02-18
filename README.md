@@ -102,24 +102,24 @@ I'm Sora, working as a Software Developer with 5 years based in Vancouver, Canad
     src="https://github-readme-streak-stats.herokuapp.com/?user=sora19961102&amp;theme=dark"
     alt="sora19961102"
   />
-  <img
+  <!-- <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=sora19961102&amp;show_icons=true&amp;theme=dark&amp;locale=en"
     alt="sora19961102"
-  />
+  /> -->
 </p>
 
-<p>
+<!-- <p>
   <br /><br /><br /><br /><br /><br /><br /><br />
-</p>
+</p> -->
 
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sora19961102&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact"
     alt="sora19961102"
   />
-</p>
+</p> -->
 
 <p>
   <br /><br /><br /><br /><br /><br /><br /><br />
