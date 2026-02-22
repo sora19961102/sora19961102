@@ -78,14 +78,6 @@ I'm Sora, working as a Software Developer with 5 years based in Vancouver, Canad
       height="40"
     />
   </a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
-      alt="elasticsearch"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 
 <br />
