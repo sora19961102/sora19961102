@@ -1,5 +1,6 @@
-<h1 align="left">Hi!👋, Welcome to my Github!</h1>
-I'm Sora, working as a Software Developer with 5 years based in Vancouver, Canada 🇨🇦  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=09AEF7&width=435&lines=Hi!%F0%9F%91%8B%2C+Welcome+to+my+Github!" alt="Typing SVG" /></a>
+<br />
+I'm Sora, working as a Software Developer with 5 years based in Vancouver, Canada 🇨🇦
 
 <br />
 
