@@ -75,7 +75,7 @@ I'm Sora, working as a Software Developer with 5 years based in Vancouver, Canad
       height="40"
     />
   </a>
-</p>
+</div>
 
 <hr width="100%" />
 
