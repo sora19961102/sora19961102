@@ -2,7 +2,7 @@
 <br />
 I'm Sora, working as a Software Developer with 5 years based in Vancouver, Canada 🇨🇦
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
